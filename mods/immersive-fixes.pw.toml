@@ -1,0 +1,13 @@
+name = "Immersive Fixes"
+filename = "immersivefixes-1.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "888945a73572b9d92d128256d6adaabcb6a03f6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9181462
+project-id = 1326199

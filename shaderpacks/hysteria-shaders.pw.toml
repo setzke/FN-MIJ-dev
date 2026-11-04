@@ -1,0 +1,13 @@
+name = "👻 Hysteria Shaders"
+filename = "Hysteria-Shaders-Universal-v1.2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f91a94d031d9a62e40c2ce1d149b25a47e9526b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8162208
+project-id = 1040578

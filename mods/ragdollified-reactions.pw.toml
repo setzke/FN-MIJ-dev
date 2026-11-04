@@ -1,0 +1,13 @@
+name = "Ragdollified Reactions/Toggle"
+filename = "ragdollifiedreactions-1.20.1-0.1.2-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "742f339ff3281ee406bd249da13112e2318ff7fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9022503
+project-id = 1693039

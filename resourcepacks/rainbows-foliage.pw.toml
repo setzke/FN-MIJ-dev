@@ -1,0 +1,13 @@
+name = "rainbow's foliage: polytone"
+filename = "rainbows-foliage-polytone-edition-v2.1-[1.20.1].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7146c9c84e6ac016e4179aed22939d1f9d7d9020"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9092193
+project-id = 1363585

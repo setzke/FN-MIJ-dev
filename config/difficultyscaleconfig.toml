@@ -1,0 +1,59 @@
+
+[difficulty_stats]
+	#Changes the damage taken by players while Casual mode is active
+	casual_mode_damagetaken_scale = 0.75
+	#Changes the damage dealt by players while Casual mode is active
+	casual_mode_damagedealt_scale = 1.0
+	#Changes the damage taken by players while Expert mode is active
+	expert_mode_damagetaken_scale = 2.0
+	#Changes the damage dealt by players while Expert mode is active
+	expert_mode_damagedealt_scale = 0.75
+	#Changes the damage taken by players while Malicious mode is active
+	malicious_mode_damagetaken_scale = 5.0
+	#Changes the damage dealt by players while Malicious mode is active
+	malicious_mode_damagedealt_scale = 0.5
+
+[casual_mob_stats]
+	#Multiplier value of Max Health of all mobs in casual mode - Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	casual_mob_health = 1.0
+	#Multiplier value of Speed of all mobs in casual mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	casual_mob_speed = 1.0
+	#Addition value of Armor of all mobs in casual mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	casual_mob_armor = 1.0
+	#Multiplier value of Damage of all mobs in casual mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	casual_mob_damage = 1.0
+	#Multiplier amount of EXP all mobs drops in casual mode. To leave unchanged, keep it 1
+	casual_mob_exp = 1.0
+
+[expert_mob_stats]
+	#Multiplier value of Max Health of all mobs in expert mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	expert_mob_health = 1.0
+	#Multiplier value of Speed of all mobs in expert mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	expert_mob_speed = 1.0
+	#Addition value of Armor of all mobs in expert mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	expert_mob_armor = 1.0
+	#Multiplier value of Damage of all mobs in expert mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	expert_mob_damage = 1.0
+	#Multiplier amount of EXP all mobs drops in expert mode. To leave unchanged, keep it 1
+	expert_mob_exp = 1.0
+
+[malicious_mob_stats]
+	#Multiplier value of Max Health of all mobs in malicious mode. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	malicious_mob_health = 1.0
+	#Multiplier value of Speed of all mobs in malicious mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	malicious_mob_speed = 1.0
+	#Addition value of Armor of all mobs in malicious mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	malicious_mob_armor = 1.0
+	#Multiplier value of Damage of all mobs in malicious mode. Negative numbers decrease this value, Positive number only increase it. To leave unchanged, keep the value 0; a 1 means 100% increase.
+	malicious_mob_damage = 1.0
+	#Multiplier amount of EXP all mobs drops in malicious mode. To leave unchanged, keep it 1
+	malicious_mob_exp = 1.0
+
+[difficulty_explanation]
+	#Type anything you want here! When a player uses the difficulty command, this tells them what is in this difficulty. Explain what Casual difficulty changes.
+	casual_explanation = "Example Text Here"
+	#Type anything you want here! When a player uses the difficulty command, this tells them what is in this difficulty. Explain what Expert difficulty changes.
+	expert_explanation = "Example Text Here"
+	#Type anything you want here! When a player uses the difficulty command, this tells them what is in this difficulty. Explain what Malicious difficulty changes.
+	malicious_explanation = "If this text is here, the creator was silly!"
+

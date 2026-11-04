@@ -1,0 +1,312 @@
+{
+  "positive_multiplier": 0.5,
+  "negative_multiplier": 0.4,
+  "below_optimal_time": 4.0,
+  "pass_optimal_time": 12.0,
+  "passive": {
+    "passive": -0.001,
+    "raining": -0.2,
+    "hunger_threshold": 8,
+    "hungry": -0.2,
+    "ender_man_anger": -5.0,
+    "ender_man_anger_duration": 100,
+    "pet": 0.15,
+    "monster": -0.1,
+    "darkness": -0.15,
+    "darkness_threshold": 4,
+    "lightness": 0.0,
+    "lightness_threshold": 4,
+    "block_stuck": -0.09,
+    "dirt_path": 0.09,
+    "jukebox_pleasant": 0.08,
+    "jukebox_unsettling": -0.11,
+    "jukebox_range": 60.0,
+    "garland_passive": -0.1
+  },
+  "active": {
+    "sleeping": 75.0,
+    "sleeping_cd": 1200.0,
+    "hurt_ratio": -1.0,
+    "baby_chicken_spawn": 5.0,
+    "baby_chicken_spawn_cd": 300.0,
+    "advancement": 20.0,
+    "animal_breeding": 9.0,
+    "animal_breeding_cd": 600.0,
+    "animal_hurt_ratio": -0.5,
+    "pet_death": -60.0,
+    "villager_trade": 20.0,
+    "villager_trade_cd": 600.0,
+    "shearing": 5.0,
+    "shearing_cd": 300.0,
+    "eating": 0.8,
+    "eating_cd": 300.0,
+    "fishing": 1.3,
+    "fishing_cd": 0.0,
+    "farmland_trample": -2.0,
+    "potting_flower": 4.0,
+    "potting_flower_cd": 300.0,
+    "changed_dimension": -10.0,
+    "struck_by_lightning": -30.0,
+    "villager_unhappy_threshold": 0.6,
+    "garland_multiplier": 0.92,
+    "garland_decay_rate": 60,
+    "garland_durability": 150,
+    "animal_tempt_threshold": 0.5,
+    "piglin_aggro_threshold": 0.7,
+    "insanity_target_threshold": 0.87,
+    "fatal_sanity_damage": 1.5,
+    "fatal_sanity_damage_ticks": 40
+  },
+  "sleep": {
+    "enable_sleep_mechanic": true,
+    "allow_daytime_sleep": true,
+    "allow_unnatural_sleep": true,
+    "one_player_sleep": true,
+    "enable_sleep_deprivation": true,
+    "enable_oversleep_penalty": true,
+    "optimal_sleep_hours": 8.0,
+    "deprivation_threshold": 0.3,
+    "deprivation_speed_penalty": -0.75,
+    "insomnia_threshold": 0.6,
+    "sleep_sanity_restore": 0.75,
+    "sleep_deprivation_reduction": 0.25,
+    "passive_deprivation_rate": 5.0E-5,
+    "oversleep_drain_rate": 0.1,
+    "oversleep_nightmare_threshold": 0.95
+  },
+  "medication": {
+    "toxicity_weakness": 0.4,
+    "toxicity_slowness": 0.65,
+    "toxicity_poison": 0.85,
+    "golden_apple_reduction": 0.25,
+    "pill_sanity_restore": 0.175,
+    "pill_toxicity_low": 0.15,
+    "pill_toxicity_high": 0.4,
+    "pill_duration": 24000,
+    "pill_overdose_threshold": 2,
+    "passive_toxicity_decay": 2.0E-5,
+    "sleeping_pill_initial_restore": 0.15,
+    "sleeping_pill_recovery_duration": 6000,
+    "sleeping_pill_cooldown": 24000,
+    "dimension_pill_restore": 0.35,
+    "dimension_pill_wrong_dim_tox": 0.4,
+    "tox_weakness_duration": 300,
+    "tox_slowness_duration": 300,
+    "tox_poison_duration": 100,
+    "tox_nausea_duration": 200
+  },
+  "entity": {
+    "enable_inner_entities": true,
+    "entities_deal_damage": false,
+    "entities_chase_player": true,
+    "sane_see_inner_entities": false,
+    "spawn_radius": 20,
+    "detect_radius": 40,
+    "max_count": 5,
+    "spawn_threshold": 0.8,
+    "spawn_cooldown": 400,
+    "visibility_threshold": 0.6,
+    "stalker_health": 500.0,
+    "stalker_damage": 8.0,
+    "terror_health": 700.0,
+    "terror_damage": 16.0
+  },
+  "multiplayer": {
+    "sane_player_company": 0.05,
+    "insane_player_company": -0.12,
+    "insane_player_threshold": 0.75
+  },
+  "client": {
+    "render_indicator": true,
+    "arrow_indicator_threshold": 2.0E-4,
+    "twitch_indicator": true,
+    "indicator_scale": 1.0,
+    "indicator_x_addition": 0,
+    "indicator_y_addition": 0,
+    "indicator_location": "BOTTOM_RIGHT",
+    "render_hints": false,
+    "twitch_hints": false,
+    "render_bt_overlay": true,
+    "short_burst_flash": true,
+    "render_passive_bt": true,
+    "render_post": true,
+    "play_sounds": true,
+    "insanity_volume": 0.6,
+    "blackout_threshold": 0.9,
+    "shader_start_threshold": 0.7,
+    "shader_max_threshold": 1.0,
+    "hint_start_threshold": 0.5,
+    "severe_hint_threshold": 0.7,
+    "hint_duration_normal": 600,
+    "hint_duration_severe": 2000,
+    "paranoia_step_min": 600,
+    "paranoia_step_max": 1200,
+    "paranoia_misc_min": 800,
+    "paranoia_misc_max": 1400,
+    "sounds_start": 0.77,
+    "footsteps_start": 0.77,
+    "heartbeats_start": 0.85,
+    "ringings_start": 0.9,
+    "heartbeats_end": 1.0,
+    "ringings_end": 1.0,
+    "footsteps_volume": 1.0,
+    "sounds_volume": 1.0,
+    "heartbeats_volume": 1.0,
+    "ringings_volume": 1.0,
+    "swish_volume": 1.0,
+    "inner_entity_volume": 1.0,
+    "blood_trundles_threshold": 5.0E-4,
+    "blood_trundles_at_low_sanity": 0.83,
+    "blood_tendrils_delay": 100,
+    "flash_gain_threshold": 0.002,
+    "camera_effects_start_level": 0.8,
+    "camera_wobble_effect_strength": 0.15,
+    "camera_fov_effect_degree": 3.0,
+    "nausea_start_level": 0.85,
+    "nausea_max_strength": 200,
+    "saturation_start_level": 0.75,
+    "saturation_end_level": 0.95,
+    "vignette_start_level": 0.7,
+    "vignette_end_level": 0.95,
+    "vignette_max_opacity": 1.0,
+    "vignette_min_radius": 0.075
+  },
+  "passiveBlocks": [
+    {
+      "m_sanity": 0.1,
+      "m_rad": 4.0,
+      "m_naturallyGend": false,
+      "m_isTag": false,
+      "m_name": "minecraft:campfire",
+      "m_props": {
+        "lit": true
+      }
+    }
+  ],
+  "items": [
+    {
+      "m_sanity": -5.0,
+      "m_cat": 0,
+      "m_name": "minecraft:pufferfish"
+    },
+    {
+      "m_sanity": -5.0,
+      "m_cat": 0,
+      "m_name": "minecraft:poisonous_potato"
+    },
+    {
+      "m_sanity": -5.0,
+      "m_cat": 0,
+      "m_name": "minecraft:spider_eye"
+    },
+    {
+      "m_sanity": -5.0,
+      "m_cat": 0,
+      "m_name": "minecraft:rotten_flesh"
+    },
+    {
+      "m_sanity": -3.0,
+      "m_cat": 0,
+      "m_name": "minecraft:chorus_fruit"
+    },
+    {
+      "m_sanity": -1.0,
+      "m_cat": 0,
+      "m_name": "minecraft:ender_pearl"
+    },
+    {
+      "m_sanity": 6.0,
+      "m_cat": 1,
+      "m_name": "minecraft:honey_bottle"
+    },
+    {
+      "m_sanity": 7.0,
+      "m_cat": 1,
+      "m_name": "minecraft:golden_carrot"
+    },
+    {
+      "m_sanity": 8.0,
+      "m_cat": 1,
+      "m_name": "minecraft:golden_apple"
+    },
+    {
+      "m_sanity": 13.0,
+      "m_cat": 1,
+      "m_name": "minecraft:enchanted_golden_apple"
+    }
+  ],
+  "itemCategories": [
+    {
+      "m_id": 0,
+      "m_cd": 0.0
+    },
+    {
+      "m_id": 1,
+      "m_cd": 800.0
+    }
+  ],
+  "brokenBlocks": [
+    {
+      "m_sanity": -8.0,
+      "m_cat": 0,
+      "m_naturallyGend": false,
+      "m_toolRequired": false,
+      "m_isTag": false,
+      "m_name": "minecraft:infested_stone"
+    },
+    {
+      "m_sanity": -8.0,
+      "m_cat": 0,
+      "m_naturallyGend": false,
+      "m_toolRequired": false,
+      "m_isTag": false,
+      "m_name": "minecraft:infested_cobblestone"
+    },
+    {
+      "m_sanity": -8.0,
+      "m_cat": 0,
+      "m_naturallyGend": false,
+      "m_toolRequired": false,
+      "m_isTag": false,
+      "m_name": "minecraft:infested_stone_bricks"
+    },
+    {
+      "m_sanity": -8.0,
+      "m_cat": 0,
+      "m_naturallyGend": false,
+      "m_toolRequired": false,
+      "m_isTag": false,
+      "m_name": "minecraft:infested_cracked_stone_bricks"
+    },
+    {
+      "m_sanity": -8.0,
+      "m_cat": 0,
+      "m_naturallyGend": false,
+      "m_toolRequired": false,
+      "m_isTag": false,
+      "m_name": "minecraft:infested_mossy_stone_bricks"
+    },
+    {
+      "m_sanity": -8.0,
+      "m_cat": 0,
+      "m_naturallyGend": false,
+      "m_toolRequired": false,
+      "m_isTag": false,
+      "m_name": "minecraft:infested_chiseled_stone_bricks"
+    },
+    {
+      "m_sanity": -8.0,
+      "m_cat": 0,
+      "m_naturallyGend": false,
+      "m_toolRequired": false,
+      "m_isTag": false,
+      "m_name": "minecraft:infested_deepslate"
+    }
+  ],
+  "brokenBlockCategories": [
+    {
+      "m_id": 0,
+      "m_cd": 0.0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+name = "Fear_Nightfall_Remains_of_Chaos"
+version = "v1.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "60dd57d424ff9e5babac9b73ad83497cc69d66392a4be61c05c8c34b7fc00196"
+
+[versions]
+forge = "47.4.8"
+minecraft = "1.20.1"

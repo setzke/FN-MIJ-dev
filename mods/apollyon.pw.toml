@@ -1,0 +1,13 @@
+name = "Apollyon"
+filename = "Apollyon, Act Two v1.0.0 (1.20.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8d39f5f43852ac428f079b7e98591d4aab7425f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7180425
+project-id = 971482

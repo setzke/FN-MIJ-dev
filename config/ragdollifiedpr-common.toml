@@ -1,0 +1,36 @@
+
+#Player revive settings
+[revive]
+	#Skip the downed state when you are alone in a local world, since nobody can revive you.
+	#A world opened to LAN starts downing players again once a second player joins.
+	disableInSingleplayer = true
+	#Stop downed players from using items, placing or breaking blocks, and interacting.
+	#Attack stays blocked either way, since holding it is how a downed player gives up.
+	blockActionsWhileKnocked = true
+	#A totem of undying held in either hand saves you from a fatal hit like vanilla instead of downing you.
+	#Turn off to always down the player and leave the totem unused.
+	totemPreventsDowned = true
+	#Seconds a downed player has before bleeding out.
+	#Range: 5 ~ 3600
+	downedSeconds = 60
+	#Damage a downed player can take before dying.
+	#Range: 1.0 ~ 10000.0
+	knockedHealth = 50.0
+	#Ticks after being downed during which a player loses no knocked health. 20 ticks is a second.
+	#Whatever put them down is usually still going off - the rest of a burst, the fire it left,
+	#the mob's next swing - and finishes them before anyone could reach them. 0 turns it off.
+	#Range: 0 ~ 1200
+	downedInvulnerableTicks = 40
+	#Seconds of holding use on a downed player needed to revive them.
+	#Range: 1 ~ 300
+	reviveSeconds = 10
+	#Seconds for a full revive bar to drain after reviving stops. Progress can be resumed while it drains.
+	#Range: 1 ~ 3600
+	reviveDecaySeconds = 30
+	#Hearts of health a revived player gets back.
+	#Range: 0.5 ~ 100.0
+	reviveHearts = 2.5
+	#Seconds after a revive before that player can be downed again. 0 disables the cooldown.
+	#Range: 0 ~ 3600
+	secondChanceCooldownSeconds = 120
+

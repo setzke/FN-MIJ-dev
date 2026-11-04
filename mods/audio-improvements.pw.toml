@@ -1,0 +1,13 @@
+name = "Audio Improvements"
+filename = "Audio Improvements v2.0.1 (Forge 1.20.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8132ed551f13d3e5f3a7721172813b54e271713"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8818368
+project-id = 1321370

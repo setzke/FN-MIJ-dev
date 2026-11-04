@@ -1,0 +1,13 @@
+name = "Sanity: Descent Into Madness (Resync)"
+filename = "sanitydim_resync_k-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ca6454f5dbc9a16bec68adf319fab91ffbe8de3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8739026
+project-id = 1642542

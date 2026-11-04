@@ -1,0 +1,13 @@
+name = "Mob Amputation (Reborn)"
+filename = "mobamputationforge-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2ace9119714880618502b813d1abc2c2155ed97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8562629
+project-id = 1528056

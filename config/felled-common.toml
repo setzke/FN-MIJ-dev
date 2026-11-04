@@ -1,0 +1,116 @@
+
+[felling]
+	#Only fell trees when chopped with an axe.
+	requireAxe = false
+	#Sneaking breaks a single log instead.
+	sneakToChopNormally = true
+	#Creative mode fells trees too.
+	creativeFellsTrees = true
+	#Largest log structure treated as a tree.
+	#Range: 1 ~ 4096
+	maxLogs = 400
+	#Most leaves taken with a tree.
+	#Range: 0 ~ 16384
+	maxLeaves = 3000
+	#Natural leaves needed to count as a tree. 0 fells any log structure.
+	#Range: 0 ~ 1024
+	minLeaves = 3
+	#Reach for leaves without a distance property, like wart blocks.
+	#Range: 1 ~ 8
+	untaggedLeafReach = 5
+	#Axes can strip fallen logs.
+	stripFallenLogs = true
+
+[physics]
+	#Gravity on falling trees, times 9.81 m/s^2.
+	#Range: 0.1 ~ 10.0
+	gravityMultiplier = 1.6
+	#Starting tip speed (rad/s).
+	#Range: 0.0 ~ 5.0
+	fallSpin = 0.35
+	#Starting push away from the chopper (m/s).
+	#Range: 0.0 ~ 10.0
+	fallPush = 0.4
+	#Mass per log (kg).
+	#Range: 1.0 ~ 10000.0
+	logDensity = 700.0
+	#Mass per leaf block (kg). Lower makes canopies lighter.
+	#Range: 0.1 ~ 10000.0
+	leafWeight = 12.0
+	#Friction between trees and terrain.
+	#Range: 0.0 ~ 2.0
+	friction = 0.8
+	#Keeps a cut tree tipping instead of balancing on its stump.
+	tipAssist = true
+	#Falling trunks break the natural leaves they pass through.
+	trunksBreakStandingLeaves = true
+	#Physics threads per dimension.
+	#Range: 1 ~ 16
+	solverThreads = 2
+
+[impacts]
+	#Leaves broken by a falling tree drop loot.
+	leafShatterDrops = true
+	#Leaves driven into the ground break.
+	leavesBreakOnGround = true
+	#Falling leaves and the leaves they land in, standing or fallen, crush each other.
+	leavesCrushLeaves = false
+	#Seconds for leaves left without logs to decay.
+	#Range: 0.05 ~ 30.0
+	leafDecaySeconds = 2.0
+	#Hard impacts snap trunks in two.
+	trunksSnap = true
+	#Impact speed (m/s) that snaps a trunk.
+	#Range: 0.0 ~ 200.0
+	splitImpact = 30.0
+	#Falling logs hurt mobs and players they land on.
+	crushMobs = true
+	#Damage per m/s above 4 m/s from a log falling onto a mob.
+	#Range: 0.0 ~ 100.0
+	crushDamage = 1.5
+	#Most damage from one crushing hit.
+	#Range: 0.0 ~ 1000.0
+	maxCrushDamage = 20.0
+	#Explosions shove fallen trees and blow blocks off them.
+	explosionsAffectTrees = true
+
+[water]
+	#Fallen trees float and drift with currents.
+	buoyancy = true
+	#Drift speed in flowing water (m/s).
+	#Range: 0.0 ~ 10.0
+	currentSpeed = 1.5
+	#Idle swell that sways floating trees side to side (m/s). 0 disables.
+	#Range: 0.0 ~ 5.0
+	waterSway = 0.4
+
+[fire]
+	#Fallen trees catch fire and burn like trees in the world.
+	treesBurn = true
+	#Burning trees can light fires around them (needs doFireTick).
+	fireSpreadsToWorld = true
+	#Fire on a standing tree stays lit when it is felled.
+	fireFallsWithTree = true
+
+[lifetime]
+	#Seconds after settling before a fallen tree despawns. -1 never.
+	#Range: -1 ~ 86400
+	despawnSeconds = -1
+	#Drop remaining blocks as items on despawn.
+	dropItemsOnDespawn = true
+
+[entities]
+	#Fallen trees are solid and carry whatever stands on them.
+	walkableTrunks = true
+	#Fallen leaves are solid to entities too. Off lets you walk through canopies.
+	solidLeaves = true
+	#Push from walking into a fallen tree (N s per tick). 0 disables.
+	#Range: 0.0 ~ 1000.0
+	playerPush = 30.0
+	#Share of a landing's momentum passed to the tree. 0 disables.
+	#Range: 0.0 ~ 4.0
+	landingPush = 1.0
+	#Share of a rider's weight pressing on a floating tree. 0 disables.
+	#Range: 0.0 ~ 4.0
+	riderWeight = 1.0
+

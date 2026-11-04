@@ -1,0 +1,13 @@
+name = "Better Blood Overlay"
+filename = "betterbloodoverlay-forge-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a21517188a06b5ef1805e6ff3457808c198696d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8405671
+project-id = 1332112

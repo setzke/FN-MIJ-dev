@@ -1,0 +1,13 @@
+name = "Armor Trim Compat"
+filename = "Armor Trim Compat 1.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "975c2afed59aecc748dd313022087bea31f45500"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8973141
+project-id = 1236860

@@ -1,0 +1,31 @@
+#If true, logs one-time INFO messages confirming that render hooks and
+#overlay providers are firing.  Leave OFF in normal play; enable temporarily
+#after a Ragdollified/BBO update to verify compat is still working.
+enableDebugLogging = false
+
+#Settings for the general skin-overlay capture system.
+#When enabled, overlay textures (from BBO, or any mod that
+#registers an ISkinOverlayProvider) are preserved on ragdolls.
+[overlay]
+	#Enable capturing overlay textures from living entities and replaying them
+	#on their ragdolls.  Disable if you experience visual conflicts with other
+	#rendering mods.
+	enableOverlayCapture = true
+
+#Settings for TACZ gun-shot limb amputation.
+#Requires both TACZ and Mob Amputation (Reborn) to be installed.
+#If either is absent these settings have no effect.
+[tacz]
+	#Enable limb amputation when a mob is shot with a TACZ gun.
+	enable = true
+	#Probability (0.0–1.0) that a TACZ headshot amputates the head.
+	#Default 0.75 — i.e. 75 % of headshots remove the head.
+	#Range: 0.0 ~ 1.0
+	headshotChance = 0.75
+	#Probability (0.0–1.0) that a TACZ body shot amputates a random limb.
+	#A random limb (left/right arm or leg) is selected first, then this
+	#chance is applied.  Effective per-limb rate = this value ÷ 4.
+	#Default 0.20 → ~5 % per limb per shot.
+	#Range: 0.0 ~ 1.0
+	limbChance = 0.2
+

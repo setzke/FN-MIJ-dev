@@ -1,0 +1,13 @@
+name = "MNS - Moog's Nether Structures"
+filename = "MoogsNetherStructures-universal-1.20-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcfef161397f7865e3a6642c5170cd13fd7ad9ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8887939
+project-id = 967466

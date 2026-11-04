@@ -1,0 +1,13 @@
+name = "SSP - Abandoned Watchtowers [Structure Spooks Series]"
+filename = "ssp_watchtowers-2.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7dce8eac2c850e234612271d65285102e78fd95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8618376
+project-id = 1366338

@@ -1,0 +1,13 @@
+name = "KuroLIB"
+filename = "kurolib-0.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4528aa13a2d0e975bf941795b0ba5fb9e207aea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9358029
+project-id = 1289564

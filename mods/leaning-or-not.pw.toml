@@ -1,0 +1,13 @@
+name = "Leaning Or Not"
+filename = "leaningornot-1.20.1-0.3.6-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28294a4ea30f2b8ae1659e3b8c5f7385afa711f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8687181
+project-id = 1626120

@@ -1,0 +1,12 @@
+#Impact dust multiplier. 0 disables.
+#Range: 0.0 ~ 3.0
+dustAmount = 1.0
+#Burning tree smoke multiplier. 0 disables.
+#Range: 0.0 ~ 3.0
+fireSmoke = 1.0
+#How grey impact dust is.
+#Range: 0.0 ~ 1.0
+dustDesaturation = 0.3
+#Hide inner leaf faces on fallen trees. Faster, flatter look.
+cullInnerLeaves = false
+

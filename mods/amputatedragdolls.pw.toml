@@ -1,0 +1,13 @@
+name = "AmputatedRagdolls"
+filename = "amputatedragdolls-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99fb167ac72c1d278ad27d0e3454fc6ec119a53e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8931228
+project-id = 1600587

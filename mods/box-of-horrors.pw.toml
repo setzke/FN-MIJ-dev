@@ -1,0 +1,13 @@
+name = "The Box of Horrors [Forge]"
+filename = "boh-0.0.11.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7e017780273e1ced5a029db66cc10abe82521f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9362395
+project-id = 408707

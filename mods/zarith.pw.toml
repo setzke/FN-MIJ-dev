@@ -1,0 +1,13 @@
+name = "Zarith"
+filename = "zarith-forge-1.20.1-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ded3d90bee4534fe48999410eb433843d432ff44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9284417
+project-id = 1720181
