@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TEST.JSON"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "_TEST.JSON"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/Butchery.toml"
 hash = "e804fe42150488837bc36fb63defaf9133944e23c05a7bb0fe1e991b701f9852"
 
