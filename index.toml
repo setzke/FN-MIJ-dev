@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TEST.JSON"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "_TEST.JSON"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/Butchery.toml"
 hash = "e804fe42150488837bc36fb63defaf9133944e23c05a7bb0fe1e991b701f9852"
 
@@ -1778,7 +1786,7 @@ hash = "8765d018b756119a1a0ebb4a03aa524d1b2eeed9d8a2aa889949ebe4322d11b9"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
 file = "config/jei/blacklist.json"
