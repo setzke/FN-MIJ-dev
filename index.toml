@@ -5523,6 +5523,11 @@ hash = "6e055d9a52c0c2eece73425b68d59c89b23b0aa091d93269863e5869b0298d6f"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "50e84c4b402d1772d2fea803812074b2946dac2a6b85944bfb5af37fd0db082c"
+metafile = true
+
+[[files]]
 file = "mods/atlas-lib.pw.toml"
 hash = "e78a95a5dea14600ea73936a1209d3f6a44ece2d2122ea1b94fc6ecbb763f820"
 metafile = true
@@ -5873,6 +5878,11 @@ hash = "6c910a1b60b4b4b8446c1f9bf728e0846342a797b53b98f63d6c5dd69a868264"
 metafile = true
 
 [[files]]
+file = "mods/dynamickeybinds.pw.toml"
+hash = "4e73d39511888647e62c3ec58e4d0676f3863fb8bf4bce2f41af6cfa1513965c"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
 metafile = true
@@ -6128,8 +6138,28 @@ hash = "aa2ee25935ff64f2626023b07c4a5eb750e3ea4a6225dc028d5fbe503d01e9c1"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "d9c706f5ea76a5e0e1847b5b3e065f0c99b28f2af0fd0ed291f988874ee45190"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "8cc5e3092795990c7c02710a453001833799c1ee90e7162231507c3589b87f8f"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "40ae2ece7768489628eaf6d100dc2166df71d9b490ee94f6bb038bd047975c0e"
+metafile = true
+
+[[files]]
 file = "mods/hexerei.pw.toml"
 hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
+metafile = true
+
+[[files]]
+file = "mods/hexkeys.pw.toml"
+hash = "fc6c87f08d915f67fa550aab663baca46b4580c4d56bbce819d81c4f84c35f03"
 metafile = true
 
 [[files]]
@@ -6170,6 +6200,11 @@ metafile = true
 [[files]]
 file = "mods/improved-village-placement.pw.toml"
 hash = "5b210758bf1ada8a485eed78f9f1aac4f2dc9ef276023985bb3a709a2ff676ad"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
 metafile = true
 
 [[files]]
@@ -6398,6 +6433,11 @@ hash = "d5c56c094d743a69e19350abe708f4f181607055dd266c495354736c31d620a5"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "14061d96c112a76fe345e6a1a55d65f1bab75c6e1f99cf2b393bf8a257d64fe1"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -6505,6 +6545,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
 metafile = true
 
 [[files]]
