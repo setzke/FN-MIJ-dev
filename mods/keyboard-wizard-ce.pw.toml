@@ -1,0 +1,13 @@
+name = "Keyboard Wizard CE"
+filename = "keyboard-wizard-ce-forge-1.20.1-1.0.2beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d5df783e5e661afa93311f9b9c11f7e86f258f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8395702
+project-id = 1577868

@@ -2722,7 +2722,7 @@ hash = "50588f898d90a1905235c9b4846a889495a37a86910bde6b9129621f9a68c9db"
 
 [[files]]
 file = "config/teraphobia/fear_nightfall.png"
-hash = "0d01fdbbf42ac6638a19bcf77328df78e71b2de9a8b6be014658a895051c5c6e"
+hash = "cef8fdc5b7cb9c3702aa037c568ddb46535b130a7940f0862d021295729eac9b"
 
 [[files]]
 file = "config/teraphobia/forge.png"
@@ -2737,7 +2737,7 @@ file = "config/teraphobia/lps.png"
 hash = "67ea9f2228d5918dc2c2b381c20766b5ecfa536f5709b51617b8a1c2fd1df9b9"
 
 [[files]]
-file = "config/teraphobia/old_fear_nightfall.png"
+file = "config/teraphobia/original_fear_nightfall.png"
 hash = "d9d9eca3a13dd92d553b4d678d1e85fb77b5e51008ff4b3061afe70e1f2a9af9"
 
 [[files]]
@@ -5633,11 +5633,6 @@ hash = "01269c4ba6833c91c348e2f29c913e7f06654e87c5e63f8a51e66e174cb054c2"
 metafile = true
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-forge.pw.toml"
-hash = "6c8c9d9909c3803efc7cae93d29b9d063f46da02c045859f343d9c3af8bd420f"
-metafile = true
-
-[[files]]
 file = "mods/block-swap.pw.toml"
 hash = "aaedcad93efbc0ee8fff4963adcbb3d9f0bd6652ded99fda6217c6c1a9e6ceee"
 metafile = true
@@ -5835,6 +5830,11 @@ metafile = true
 [[files]]
 file = "mods/deep-dark-regrowth.pw.toml"
 hash = "cb7cf046cc3edf51b45a40f38a4fd3fd6897b66b768eac8cb279580ddb7bd236"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "3e8187acf1eb48228597648ee3bee178123bef8ece1b3dac80144467747b647b"
 metafile = true
 
 [[files]]
@@ -6143,6 +6143,11 @@ hash = "d9c706f5ea76a5e0e1847b5b3e065f0c99b28f2af0fd0ed291f988874ee45190"
 metafile = true
 
 [[files]]
+file = "mods/hex-spell-wheel.pw.toml"
+hash = "83c94c2b734a70ceee548f3c5e31d47867baecf617d78ededc6766dcdd273f2b"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "8cc5e3092795990c7c02710a453001833799c1ee90e7162231507c3589b87f8f"
 metafile = true
@@ -6213,8 +6218,18 @@ hash = "f2c904da5a2fe95c08bfa6c4af96eafaaf2f3f283f9736de309529e1d58b6156"
 metafile = true
 
 [[files]]
+file = "mods/ioticspellbooks.pw.toml"
+hash = "705de546efcaf92d271566d3c2fa563e5595990872702f76811ca3b03d246bcf"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "13fa100328bda217164ab36d53de5a73fe28fcf542eefd0e0a0becb44736ff64"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "dfa508b546489c22a8020b08ffbf587e4d795b4e34e571608eead8db445d66cd"
 metafile = true
 
 [[files]]
@@ -6265,6 +6280,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
+file = "mods/keyboard-wizard-ce.pw.toml"
+hash = "36c4fc526257f7c074e49b7f8ed6a2a8b85eba7cfb7260749f47ca3ab8b484e9"
 metafile = true
 
 [[files]]
@@ -6549,7 +6569,7 @@ metafile = true
 
 [[files]]
 file = "mods/paucal.pw.toml"
-hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
+hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
 metafile = true
 
 [[files]]
@@ -6873,6 +6893,21 @@ hash = "709649f63dd68aad4ce86b468b580115b8a2c3131994d1fa7326e28d608016f7"
 metafile = true
 
 [[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "37a11301f64527bed321698c90302882553d45bec5421e81e0f9dc7ecd79703d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5897f458285d512c3c6d2ca4d82747fc6e2828a562b209312ccbb74d5cc15125"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "bdea6efdca7bd778a06437a865559c8019f200b798cae419cc37818d6d4f989c"
+metafile = true
+
+[[files]]
 file = "mods/xenon.pw.toml"
 hash = "b91513c490e4a51622c7380aa84a08bc2cf8e45d714711910b653515db03cbae"
 metafile = true
@@ -6956,6 +6991,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "29444b4ec8462f1ba46ebbfb4b234f46e3b919197526d314db9e8685e52285b1"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
@@ -7054,6 +7093,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
 hash = "23d164c33bf90a491da64c2ec0441bd7879435a7f8f1bdfb86312794f1738f71"
+metafile = true
+
+[[files]]
+file = "resourcepacks/just-expressions.pw.toml"
+hash = "8b43b79582470b83eb8048a186b229d3c52a0e45a782a31873b6bd663489b001"
 metafile = true
 
 [[files]]
