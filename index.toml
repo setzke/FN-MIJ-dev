@@ -6283,11 +6283,6 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
-file = "mods/keyboard-wizard-ce.pw.toml"
-hash = "36c4fc526257f7c074e49b7f8ed6a2a8b85eba7cfb7260749f47ca3ab8b484e9"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "c1f97c0f326711cadc34848ee8bcbe98cc0abfb397d7356e9f82fc35835a65ef"
 metafile = true
@@ -6991,10 +6986,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "29444b4ec8462f1ba46ebbfb4b234f46e3b919197526d314db9e8685e52285b1"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
