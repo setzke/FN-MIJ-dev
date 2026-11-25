@@ -3,10 +3,10 @@ This repository is my actively building a pack to practice/learn Github and pack
 Original modpack base is from here:  
 https://www.curseforge.com/minecraft/modpacks/fear-nightfall/files/9389072
 
-*** The CurseForge zip will contain no mods unless you edit the profile and add the following java argument: ***  
+***The CurseForge zip will contain no mods unless you edit the profile and add the following java argument:***  
 `-javaagent=unsup.jar`
 
-*** Additionally, if you run the CurseForge profile one time before adding the above argument, default keybinds and some other pre-set settings will not occur. Recommended to delete the profile and start again. ***
+***Additionally, if you run the CurseForge profile one time before adding the above argument, default keybinds and some other pre-set configurations will be missing. Recommended to delete the profile and start again.***
 
 ### Zips:  
 https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.CurseForge.zip  

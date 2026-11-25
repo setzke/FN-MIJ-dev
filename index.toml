@@ -5474,10 +5474,6 @@ file = "defaultconfigs/zombieawareness/PlayerRulesAndLists.toml"
 hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
-file = "desktop.ini"
-hash = "7c926bddc3d125fee4632bdee2ba69fba4f33ae2289b378b929d4f8a5a2e8d8e"
-
-[[files]]
 file = "dummyfile.txt"
 hash = "da33f71507120e66872fcfb5fbaa17a30bbefe46e551cb00ca17e33cac284fac"
 
