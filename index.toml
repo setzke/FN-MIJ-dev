@@ -2962,6 +2962,10 @@ file = "configureddefaults/config/xaerohud.txt"
 hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "bcce9d52baf7ba37f70cdfd51815dab247109a45500bb652a5189fda20c30723"
+
+[[files]]
 file = "configureddefaults/servers.dat"
 hash = "63be27c2accf0b63d19aa71fa5e864b8a15dbc00e88a0211d96f954541d32476"
 
@@ -7099,10 +7103,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "04960277cb0cd799857a65a87c455e7d04a45b240fe85a7e3c47dfbe0bada7e0"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"

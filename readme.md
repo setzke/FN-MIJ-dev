@@ -18,18 +18,14 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 <summary>My personal area:</summary>  
 
 # TODO:  
-  
-- PUNCHY first.
-Are all the EMF compats needed? WATUT, etc. 
-  
+ 
 - should we add hamsters?
   https://modrinth.com/mod/adorable-hamster-pets
   
 See mod list of what was added to last pack... ugh start making choices. Remember, your players can request things later to be added!
   
-- look into Punchy or Hold My Items (per Touch'nMot)
-  - do we have better combat? Punchy recommends a resource pack for modded weapons
-  - do these mods allow for modded clothes that show on arm?
+- Punchy recommends a resource pack for modded weapons
+- do these mods allow for modded clothes that show on arm?
 
 - add CREATE
 
