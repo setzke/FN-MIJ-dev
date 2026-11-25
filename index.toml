@@ -5975,8 +5975,38 @@ hash = "c94b9427a8d7f0e6aa0a1779c68bde63b98b4adc1968b48adad521f51bde84f3"
 metafile = true
 
 [[files]]
+file = "mods/emf-compat-carry-on.pw.toml"
+hash = "dc65322046132ea9ab7cea92ed220f17cf5c8d0c7652a802fa16c4ecf85247a6"
+metafile = true
+
+[[files]]
 file = "mods/emf-compat-core.pw.toml"
 hash = "8c1d69d7503128de53982d865372c58c5a5dbc1d82856ba6713c7e47a6d00cbc"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-irons-spells-n-spellbooks.pw.toml"
+hash = "d237a9dc578cf1a61e92271cad2cd0bfef594a539ce87faafcd98b4854f40f44"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-quark.pw.toml"
+hash = "e6ce0c2e51bc91ca68d7d855e0b6fc0ad23a60dea1061a4829d7c16893345fd2"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-supplementaries.pw.toml"
+hash = "0a6a5c88c756f916ac6321e2f00b59381690fb6544c134ffc9f685ff66d732ef"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-watut.pw.toml"
+hash = "9ce340304ba40a4e2c9054bffe9ffb6486e2314b9659b8aa87dd1c15d303417c"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-fishing-line.pw.toml"
+hash = "b411c126914d420ff65c9fabe942668ed557d4dcf5e623dd5cac0d2e1460c329"
 metafile = true
 
 [[files]]
@@ -6667,6 +6697,11 @@ metafile = true
 [[files]]
 file = "mods/puffish-biome-dither.pw.toml"
 hash = "a1a3ac2f960866271867639d202fc475f9cb92a48b338df62ffd134c8eeceda0"
+metafile = true
+
+[[files]]
+file = "mods/punchy.pw.toml"
+hash = "7d9e9c3c2e404ae278a8777d71c5e741c12172d29883de1e05f12a72c6328e2f"
 metafile = true
 
 [[files]]

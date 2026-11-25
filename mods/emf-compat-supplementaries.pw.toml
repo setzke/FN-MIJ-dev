@@ -1,0 +1,13 @@
+name = "EMF Compat: Supplementaries"
+filename = "emf_compat_supplementaries_forge_1.20.1_1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3ab4a869311be6ddb6263fbe966dccf4782041c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9524716
+project-id = 1605189

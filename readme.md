@@ -19,6 +19,8 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 
 # TODO:  
  
+ - base create and all the compats, then expand
+ 
 - should we add hamsters?
   https://modrinth.com/mod/adorable-hamster-pets
   
@@ -34,6 +36,7 @@ See mod list of what was added to last pack... ugh start making choices. Remembe
 
 ## *low priority:*  
 - distant friends names  
+  - Could do fun skins like santa, jack skelington... patrick / spongebob, whatever can be found. Maybe more horror themed ones tho. Even better if can find ones that have emissives.
 - Look into resource-pack-overrides config  
 - Investigate config for traveler's titles. Add title for mindscape that isn't "???". Other biomes too if added later. PURPLE OFC.  
   - example from the mod page:  
