@@ -5976,37 +5976,37 @@ metafile = true
 
 [[files]]
 file = "mods/emf-compat-carry-on.pw.toml"
-hash = "dc65322046132ea9ab7cea92ed220f17cf5c8d0c7652a802fa16c4ecf85247a6"
+hash = "f178bbde15b49b5a29f38f2eace013e3e219bf8ec52f3a78b2bde22e5d29ebb3"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "8c1d69d7503128de53982d865372c58c5a5dbc1d82856ba6713c7e47a6d00cbc"
+hash = "3a5a898d41eceb8d43fd2ede67a98874e4fb21b14b7139de350e86d8c7b555c1"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-irons-spells-n-spellbooks.pw.toml"
-hash = "d237a9dc578cf1a61e92271cad2cd0bfef594a539ce87faafcd98b4854f40f44"
+hash = "e382d85e264b72992f3964b242563a69e32b5e466cd7fc9aef79613e81c25379"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-quark.pw.toml"
-hash = "e6ce0c2e51bc91ca68d7d855e0b6fc0ad23a60dea1061a4829d7c16893345fd2"
+hash = "31149c08bce5b2071232b80e23a565d6e0702b861c14a018405ed884b59e1b50"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-supplementaries.pw.toml"
-hash = "0a6a5c88c756f916ac6321e2f00b59381690fb6544c134ffc9f685ff66d732ef"
+hash = "6712b484392d31a157045704467c1d81ad99d2be43fc1a3daa2bc040444b7730"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-watut.pw.toml"
-hash = "9ce340304ba40a4e2c9054bffe9ffb6486e2314b9659b8aa87dd1c15d303417c"
+hash = "1c91308d80c5a02ab61125bd1f1f51fde3d9b3630a73ebea085474d0a984e978"
 metafile = true
 
 [[files]]
 file = "mods/enchanted-fishing-line.pw.toml"
-hash = "b411c126914d420ff65c9fabe942668ed557d4dcf5e623dd5cac0d2e1460c329"
+hash = "ee6e638631650ac5241922e407a42538f1978adea28fd496120d6d6f423623b7"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "EMF Compat: Iron's Spells 'n Spellbooks"
 filename = "emf_compat_iron_spells_forge_1.20.1_2.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "EMF Compat: Carry On"
 filename = "emf_compat_carry_on_forge_1.20.1_2.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

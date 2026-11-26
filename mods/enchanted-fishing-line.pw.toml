@@ -1,6 +1,6 @@
 name = "Enchanted Fishing Line"
 filename = "enchanted_fishing_line-1.1.1-forge-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
