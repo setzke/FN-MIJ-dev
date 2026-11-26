@@ -5940,6 +5940,11 @@ hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "75004eda27c75a820908496f3b0fcc82880efcc1bded5ee35b61482c8d5a328a"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "546a2e07dfe2ef19c83779b3a4123d49fa83d803a2873cb1d0d946bbb25b88ea"
 metafile = true
