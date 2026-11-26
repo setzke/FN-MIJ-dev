@@ -1,0 +1,13 @@
+name = "Dynmap®"
+filename = "Dynmap-3.8-spigot.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a215cc45a34150d8591a43d810155bdd58c68d52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7460127
+project-id = 31620

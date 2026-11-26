@@ -2946,7 +2946,12 @@ hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
 
 [[files]]
 file = "configureddefaults/config/distanthorizons.pw.toml"
-hash = "e5784ca9bedd746c739db967b8e342eab759175bb60a40dbc0ae76c6e0f77d33"
+hash = "14f072696658f63d9a246cd740a682e4a2a78c2c587948448cfdb6574cc360d6"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/dynmapblockscan-settings.pw.toml"
+hash = "4b6e93053f358e87a8243f1e9dade6e488497084051077c6e960ec085f6352c4"
 metafile = true
 
 [[files]]
@@ -5940,6 +5945,11 @@ hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
 metafile = true
 
 [[files]]
+file = "mods/dynmapblockscan.pw.toml"
+hash = "baabb5ecfaec1956db9dfcdf08524f44fda75922adf97a8faba5690e145cda26"
+metafile = true
+
+[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "75004eda27c75a820908496f3b0fcc82880efcc1bded5ee35b61482c8d5a328a"
 metafile = true
@@ -7145,6 +7155,11 @@ hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
 
 [[files]]
+file = "plugins/dynmap.pw.toml"
+hash = "bc3886b18e21ea3ae3723b69e81b9ca9dc2b256ea76d22a9a330e79512ed553e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
@@ -7295,12 +7310,12 @@ metafile = true
 
 [[files]]
 file = "server-icon.pw.toml"
-hash = "1c60751f48250d7385d0949e0982ddf453c2a91f19f1fdcbf19460f006badc96"
+hash = "f7c32c3b43076a809951b99683cd7871c8a81de87163f358f3b3710f9012cc66"
 metafile = true
 
 [[files]]
 file = "server.properties.pw.toml"
-hash = "1c522a46df2550a60e7ce830a9b4ed40b19e922cc96c2973fd9f61f3b720b6f9"
+hash = "f9ff4e3e5d68b4fdf59a0e0932edadcb22564326bb1e6d9626f286c8a2a6dc1d"
 metafile = true
 
 [[files]]

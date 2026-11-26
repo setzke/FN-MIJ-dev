@@ -3,6 +3,6 @@ filename = "DistantHorizons.toml"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/setzke/FN-MIJ-dev/refs/heads/main/configureddefaults/config/DistantHorizons.toml"
+url = "https://setzke.github.io/FN-MIJ-dev/configureddefaults/config/DistantHorizons.toml"
 hash-format = "sha256"
 hash = "25cc2a66f136fafa0310053e90ed3ea8c4263b11078904df8b18fd312d2b1abe"

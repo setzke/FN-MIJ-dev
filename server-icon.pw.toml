@@ -3,6 +3,6 @@ filename = "server-icon.png"
 side = "server"
 
 [download]
-url = "https://raw.githubusercontent.com/setzke/FN-MIJ-dev/refs/heads/main/server-icon.png"
+url = "https://setzke.github.io/FN-MIJ-dev/server-icon.png"
 hash-format = "sha256"
 hash = "9a35c33c554142ad32cf629ce2bca1a17b9ed6f1e4d63a1e20f9d943a5dfd898"
