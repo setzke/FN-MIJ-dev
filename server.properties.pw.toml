@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://setzke.github.io/FN-MIJ-dev/server.properties"
 hash-format = "sha256"
-hash = "9ba3152c50ce6843111f63dab2b5a9840d30b412ed50461e98490cdb807c3465"
+hash = "f650fe7453b2a77618f2e92da8e6d0f083ad851bd8bb9cf129e7bffe734b598b"
