@@ -19,13 +19,9 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 
 # TODO:  
  
-- Fix double corpses (corpse + ragdoll)
-  - trying to see if ragdoll players false on server is enough. 
-  - Next, see if that on client is what's needed.
-  - if so, add that to configureddefaults
 - Fix corpse + accessories going into inventory instead of accessory slots
- 
- - base create and all the compats, then expand
+- Test ragdollified corpses? Or leave double bodies
+- base create and all the compats, then expand
  
 - should we add hamsters?
   https://modrinth.com/mod/adorable-hamster-pets
