@@ -4,7 +4,7 @@ Original modpack base is from here:
 https://www.curseforge.com/minecraft/modpacks/fear-nightfall/files/9389072
 
 ***The CurseForge zip will contain no mods unless you edit the profile and add the following java argument:***  
-`-javaagent=unsup.jar`
+`-javaagent:unsup.jar`
 
 ***Additionally, if you run the CurseForge profile one time before adding the above argument, default keybinds and some other pre-set configurations will be missing. Recommended to delete the profile and start again.***
 
@@ -18,6 +18,12 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 <summary>My personal area:</summary>  
 
 # TODO:  
+ 
+- Fix double corpses (corpse + ragdoll)
+  - trying to see if ragdoll players false on server is enough. 
+  - Next, see if that on client is what's needed.
+  - if so, add that to configureddefaults
+- Fix corpse + accessories going into inventory instead of accessory slots
  
  - base create and all the compats, then expand
  
