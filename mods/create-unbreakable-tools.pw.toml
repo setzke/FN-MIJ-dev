@@ -1,0 +1,13 @@
+name = "Create: Unbreakable Tools"
+filename = "CreateUnbreakableTools-1.9-1.20.1-forge-13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3a5829096073af91613e5f3b5861fdec4eb53ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7199928
+project-id = 963802

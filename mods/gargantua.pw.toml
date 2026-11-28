@@ -1,0 +1,13 @@
+name = "Gargantua"
+filename = "gargantua-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d054975e3c850b352d4d34e92dabe3612284543"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9744338
+project-id = 1804499

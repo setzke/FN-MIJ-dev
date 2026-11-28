@@ -1,0 +1,13 @@
+name = "Daughters of Saturn"
+filename = "daughters_of_saturn-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d8a50b3d08ce9bd92f0d96d71191aa41cb1500e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9617722
+project-id = 1789864

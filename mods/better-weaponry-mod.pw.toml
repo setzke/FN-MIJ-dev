@@ -1,0 +1,13 @@
+name = "Better Weaponry [Fabric & Forge]"
+filename = "better_weaponry-3.1.2-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9df40b2500032c420674caaa1d0f00f5b69cf81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9593836
+project-id = 990523

@@ -1,0 +1,13 @@
+name = "Beyond Better Combat Compat"
+filename = "beyond_better_combat_compat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fd9492e07eaac27643a75e0ad1beda0ff43340e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9187340
+project-id = 1745815

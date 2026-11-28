@@ -1,0 +1,13 @@
+name = "Casual Swing"
+filename = "casualswing-1.0.2-fix-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56a33d40fedacf694b4d9cec9e8b7fc33cbed460"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9141909
+project-id = 1483802

@@ -1,0 +1,13 @@
+name = "Monsters & Girls 2: Quest Line Add-On"
+filename = "MonstersAndGirls2_QuestLine_Addon-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9d883c835189c20af2b5494e05300fc650bf24a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9643630
+project-id = 1794993

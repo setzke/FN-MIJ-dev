@@ -1,0 +1,13 @@
+name = "Relics Of Gaming Continued"
+filename = "ROGContinued-forge-1.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55e9bb037c0a5aca1dff127c3a9ece90f0f69622"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7333567
+project-id = 922117

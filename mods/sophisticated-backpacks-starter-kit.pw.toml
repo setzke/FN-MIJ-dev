@@ -1,0 +1,13 @@
+name = "Simple Sophisticated Backpacks Kit"
+filename = "starterkitsophisticatedbackpacks-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44e05e0ad247624de515e36adeda8807d67d7691"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8056294
+project-id = 1536977

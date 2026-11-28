@@ -1,8 +1,0 @@
-
-#DynmapBlockScan settings
-[settings]
-	#Which modules to exclude
-	exclude_modules = ["minecraft", "betterend", "biomancy", "boh", "born_in_chaos_v1", "butchery", "deep_dark_regrowth", "derelict", "eldritch_end", "fantasyfurniture", "graveyard", "hexerei", "horror_element_mod", "irons_spellbooks", "lahatut_fat_herobrine", "lootr", "netherexp", "quark"]
-	#Which block names to exclude
-	exclude_blocknames = []
-

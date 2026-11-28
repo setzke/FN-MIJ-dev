@@ -1,0 +1,13 @@
+name = "Create:Relics integration"
+filename = "createrelics_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "802ad8e5d1bc936faeaf40eecf7b4a93be3f0203"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8508493
+project-id = 1551440

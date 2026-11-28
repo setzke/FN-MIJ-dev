@@ -1,0 +1,13 @@
+name = "Amethyst Relics"
+filename = "AmethystRelics_1.12_release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9cf619c37d07394ebd175188195487a0f6657c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7498841
+project-id = 1257111

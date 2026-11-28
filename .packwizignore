@@ -9,7 +9,6 @@
 
 # Exclude manual github includes (So Packwiz can grab and dedicate a server/client side)
 /configureddefaults/config/DistantHorizons.toml
-/configureddefaults/config/dynmapblockscan/
 /server.properties
 /server-icon.png
 

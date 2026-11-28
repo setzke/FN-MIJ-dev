@@ -1,0 +1,13 @@
+name = "Create: More Bridges"
+filename = "morebridges-forge-1.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1e93686e8b0e3d5799c71bb23ca7f0d38fda38a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8191256
+project-id = 1347640

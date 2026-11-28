@@ -1,0 +1,13 @@
+name = "Immersive Aircraft x Immersive Engineering"
+filename = "iaie-1.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d80fbaab38eb6b17bb05b603d7298dd40b4d276"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8581145
+project-id = 1516454

@@ -1,0 +1,13 @@
+name = "NukaBlend"
+filename = "nukablend-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "255090b46376dd31475cb31ad1704309dcfd7006"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8610154
+project-id = 1645841

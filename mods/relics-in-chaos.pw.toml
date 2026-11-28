@@ -1,0 +1,13 @@
+name = "Relics in Chaos"
+filename = "relics_in_chaos-0.2.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db908299714d091ce6f1d45dab66c97b2ce6e3a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6056283
+project-id = 1162391

@@ -1,0 +1,13 @@
+name = "Relics & Regalia"
+filename = "relicsandregalia-0.2.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ef04924c4e3dd3c577264b8946d037150a18cfa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9351133
+project-id = 1693679

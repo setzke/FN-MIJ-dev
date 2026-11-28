@@ -1,0 +1,13 @@
+name = "Macaw's Bridges Ashen Compat"
+filename = "Macaw-s-Bridges-Ashen-Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0487f55675a15aecc95751acdaee138685557065"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9385065
+project-id = 1774923

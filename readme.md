@@ -26,12 +26,18 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 - should we add hamsters?
   https://modrinth.com/mod/adorable-hamster-pets
   
-See mod list of what was added to last pack... ugh start making choices. Remember, your players can request things later to be added!
+After new mods:
+- Better Combat... does this break anything?
+- skipped Continuity. Ask Stampede later. If add.... auto-set that one setting for hex casting to work.
+- CREATE keybinds T-T
+- Did not add eating animation. Look into it later. Seemed like there's headaches and many forks aboot
+- Ultamine keybind
+- SET UP ASHEN RIBBITS
+- SET UP ASHEN MACAWS BRIDGES
+
   
 - Punchy recommends a resource pack for modded weapons
 - do these mods allow for modded clothes that show on arm?
-
-- add CREATE
 
 -oh yeah add my 3rd person perspective mod as an optional on first launc
 
@@ -62,6 +68,56 @@ See mod list of what was added to last pack... ugh start making choices. Remembe
   - Client is java 17 and needs shenandoah, if any
 
 - jei setting (investigate)  
+
+Kubejs Botany Pots
+- GROW AMETHYST!
+  - if you do, grow the other crystals somehow
+  - experiment with having soil types cause different drops
+    - e.g. edified wood could grow the small bud, drops dust and some shards
+	- next level up more shards or higher chance, medium bud
+	- etc. etc. Could have 4 levels. last one rare.
+	- probably make it stupidly slow since botany pot tiers exist and also this may be too easy. Think of difficult yet logical mediums
+
+- Fallen Traits & Relics looks interesting
+
+----
+Mods from the custom back I was getting additional mods list from, that I chose not to add:
+
+**SCP stuff** (we don't know present experience yet)
+
+Blood Spruce
+Builder Bear
+Butlers Hand Bell
+Coffee Machine
+ColaBottles
+Dontcry
+Keteru Yamiko
+Panacea
+Peripheral Jumper
+ShadowPerson
+The Cuckoo Clock
+The Living Room
+The Shy Guy
+The Startling Statue
+ThePlagueDoctor
+TheTickleMonster
+Walter the Omnivorous Rabbit
+What Is Love
+
+**Regular stuff:**
+
+Continuity
+Dynamic Trees
+Eating Animation
+JourneyMap Integration
+Journeymap
+Just Zoom
+
+
+
+
+
+
 
 ----
 ### Failed fabric Homestead hexxy:  

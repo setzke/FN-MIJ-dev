@@ -1,0 +1,13 @@
+name = "FateKaleidLinerByNolong"
+filename = "fatekaleidliner-forge-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "393965602383fb052cc7719f46542e2e88386f1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9723500
+project-id = 1758140

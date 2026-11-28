@@ -1,0 +1,13 @@
+name = "Simple Waystones Kit"
+filename = "starterkitwaystone-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc5e2d99c3a37a28dbc292cd8cbff8f445d1ddbe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8054488
+project-id = 1536650

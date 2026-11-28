@@ -1,0 +1,13 @@
+name = "NukaCraft : Appalachian Wasteland"
+filename = "appalachian_wasteland-Alpha 1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3720e4485a38df4e8b4d3a6f8dbde14a256f3d40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8204697
+project-id = 1566415

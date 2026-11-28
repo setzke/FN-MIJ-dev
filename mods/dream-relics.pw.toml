@@ -1,0 +1,13 @@
+name = "Dream Relics"
+filename = "dream_relics-1.0.3-forge+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "143aa6160d9c0f16015c1844731d9b9a6bba7002"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8020977
+project-id = 1510876

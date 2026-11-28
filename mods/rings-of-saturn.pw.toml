@@ -1,0 +1,13 @@
+name = "Rings of Saturn"
+filename = "rings_of_saturn-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e422695b2fe07868c2acd88e2bcb374cb8a2258"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9399459
+project-id = 1776779

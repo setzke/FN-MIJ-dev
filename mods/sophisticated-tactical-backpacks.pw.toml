@@ -1,0 +1,13 @@
+name = "Sophisticated Tactical Backpacks (And Ammo Reload Upgrade)"
+filename = "militarybackpack-1.6.0-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "166629c99d815759ac6b626582f79253a73cb01a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9481506
+project-id = 1665194

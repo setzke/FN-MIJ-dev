@@ -1,0 +1,13 @@
+name = "Farmer's Sophisticated Backpacks"
+filename = "farmersbp-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b981d632c6ad99a694b78b5e795ae0570fe304d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9088893
+project-id = 1712728

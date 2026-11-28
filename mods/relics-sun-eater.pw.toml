@@ -1,0 +1,13 @@
+name = "Relics: Sun-Eater"
+filename = "sun-eater-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a068a2aa611d2f0c190e0c78f5a4049c1ba7aa9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9622618
+project-id = 1806388

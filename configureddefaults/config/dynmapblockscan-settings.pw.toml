@@ -1,8 +1,0 @@
-name="Distant Horizons configuration for client"
-filename = "dynmapblockscan/settings.toml"
-side = "server"
-
-[download]
-url = "https://setzke.github.io/FN-MIJ-dev/configureddefaults/config/dynmapblockscan/settings.toml"
-hash-format = "sha256"
-hash = "de947f9a43466fc177325d3d9fad2f64999eb6a61e8c49065c5e44d39e12ace1"

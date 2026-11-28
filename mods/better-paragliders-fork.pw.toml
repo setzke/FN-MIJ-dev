@@ -1,0 +1,13 @@
+name = "Better Paragliders Fork"
+filename = "betterparagliders-0.6.0-1.20.1-capguard.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6696fb4006c5ef8e07d1a59a006595e0147f3f93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8203120
+project-id = 1566153
